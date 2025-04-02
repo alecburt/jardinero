@@ -1,0 +1,9 @@
+Requirements
+
+tkinter
+    ttk
+    messagebox
+pil
+    imagetk
+    image
+sqlite3
